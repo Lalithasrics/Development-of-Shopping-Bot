@@ -1,1 +1,9 @@
 
+This repository contains the source code, datasets, and implementation scripts for the Shopping Bot Development Project.
+It showcases our expertise in robotics, automation, and web application development. The shopping bot is designed to 
+revolutionize in-store shopping by leveraging technologies like line-following navigation, QR code scanning, and customer 
+interaction through a Flask-based web interface.
+
+The bot integrates Raspberry Pi and Arduino for seamless communication between sensors, motors, and the control system.
+Highlights include autonomous navigation, real-time product retrieval, and interactive web functionalities. 
+This project demonstrates practical applications of IoT, computer vision, and robotics for improving retail experiences.
